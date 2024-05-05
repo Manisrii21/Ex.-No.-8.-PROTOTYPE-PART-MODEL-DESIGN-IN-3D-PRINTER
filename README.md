@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Uploading empd exercise 3.png…]()
+![3](https://github.com/Manisrii21/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147140163/696086f4-4a2f-4343-ae96-eccbfdcadb86)
+
 
 
 ### Name: Mani Sri Latha.M
